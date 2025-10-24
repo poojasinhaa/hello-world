@@ -1,0 +1,9 @@
+{
+  "name": "example-framer-pkg",
+  "version": "0.1.0",
+  "private": true,
+  "main": "code/index.ts",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
